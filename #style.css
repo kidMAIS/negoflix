@@ -1,0 +1,25 @@
+
+
+ body{
+color:chocolate;
+background-color: black;
+margin: 0px;
+margin-bottom: 100px;
+}
+
+
+:header{
+    border-bottom: solid 2px #a58;
+    margin: 20px;
+    font-size: 32px;
+    color: black;
+}
+
+section{
+
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background: #a58;
+    display: flex;
+    justify-content: center;
+}
